@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+/* Dark mode is the default; light mode toggles via [data-theme="light"] on <html>. */
+@custom-variant light (&:where([data-theme="light"], [data-theme="light"] *));
+
+:root {
+  /* Palette — pulled from a course at dusk */
+  --ink: #0d0f0d;
+  --ink-2: #151815;
+  --bone: #ece6da;
+  --sand: #c8b48c;
+  --fairway: #4a6450;
+  --dusk: #b87a5b;
+  --mist: #8b928c;
+
+  /* One spacing unit drives everything: photo gaps = page gutter = section rhythm */
+  --g: clamp(0.875rem, 1.6vw, 1.75rem);
+  --header: 4rem;
+
+  --bg: var(--ink);
+  --bg-elev: var(--ink-2);
+  --fg: var(--bone);
+  --fg-muted: var(--mist);
+  --line: rgb(236 230 218 / 0.12);
+  --accent: var(--sand);
+  color-scheme: dark;
+}
+
+[data-theme="light"] {
+  --bg: #f2eee6;
+  --bg-elev: #e9e3d8;
+  --fg: #151815;
+  --fg-muted: #5f665f;
+  --line: rgb(21 24 21 / 0.12);
+  --accent: #8a6a3a;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-elev: var(--bg-elev);
+  --color-fg: var(--fg);
+  --color-muted: var(--fg-muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-fairway: var(--fairway);
+  --color-dusk: var(--dusk);
+  --color-sand: var(--sand);
+  --color-ink: var(--ink);
+  --color-bone: var(--bone);
+
+  --font-serif: var(--font-display), "Times New Roman", serif;
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html {
+  background: var(--bg);
+  color: var(--fg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  transition: background-color 0.4s var(--ease-out-soft), color 0.4s var(--ease-out-soft);
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--ink);
+}
+
+/* Utility classes */
+@utility display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 0.95;
+}
+
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+@utility container-x {
+  padding-inline: var(--g);
+  margin-inline: auto;
+  max-width: 2400px;
+  width: 100%;
+}
+
+/* Spacing scale — every gap is a multiple of --g */
+@utility gap-g { gap: var(--g); }
+@utility gap-g-half { gap: calc(var(--g) / 2); }
+@utility space-g { & > * + * { margin-top: var(--g); } }
+@utility pt-g { padding-top: var(--g); }
+@utility mt-g { margin-top: var(--g); }
+@utility mt-g-half { margin-top: calc(var(--g) / 2); }
+@utility py-g2 { padding-block: calc(var(--g) * 2); }
+@utility pt-header { padding-top: calc(var(--header) + var(--g)); }
+@utility h-header { height: var(--header); }
+@utility inset-g { inset-inline: var(--g); bottom: var(--g); }
+
+@utility hairline {
+  border-color: var(--line);
+}
+
+/* Ken Burns — slow drift on hero frames */
+@keyframes kenburns {
+  from { transform: scale(1.02) translate3d(0, 0, 0); }
+  to   { transform: scale(1.12) translate3d(-1.5%, -1%, 0); }
+}
+.kenburns { animation: kenburns 12s linear both; will-change: transform; }
+
+@media (min-width: 768px) { :root { --header: 4.5rem; } }
+
+/* Reveal on scroll */
+.reveal { opacity: 0; transform: translateY(14px); transition: opacity 1s var(--ease-out-soft), transform 1s var(--ease-out-soft); }
+.reveal.is-visible { opacity: 1; transform: none; }
+
+
+/* Hide horizontal scrollbar but keep scroll */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* Captions that live on the photo: always visible on touch, on hover with a mouse */
+.cap { opacity: 1; transition: opacity 0.6s var(--ease-out-soft); }
+@media (hover: hover) {
+  .cap { opacity: 0; }
+  .group:hover .cap, .group:focus-visible .cap { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .kenburns { animation: none; }
+  .reveal { opacity: 1; transform: none; }
+}
+
+:focus-visible { outline: 1px solid var(--accent); outline-offset: 3px; }

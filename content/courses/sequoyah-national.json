@@ -1,0 +1,101 @@
+{
+  "slug": "sequoyah-national",
+  "title": "Sequoyah National Golf Club",
+  "location": "Cherokee, North Carolina",
+  "region": "Great Smoky Mountains",
+  "date": "2026-10",
+  "coordinates": [
+    35.47,
+    -83.29
+  ],
+  "featured": true,
+  "description": "Sequoyah National Golf Club in Cherokee, North Carolina, photographed by Austin Pedersen.",
+  "cover": {
+    "src": "/photos/sequoyah-national/05.jpg",
+    "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (05)"
+  },
+  "hero": [
+    "/photos/sequoyah-national/05.jpg",
+    "/photos/sequoyah-national/18.jpg",
+    "/photos/sequoyah-national/07.jpg"
+  ],
+  "chapters": [
+    {
+      "title": "Course",
+      "photos": [
+        {
+          "src": "/photos/sequoyah-national/01.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (01)"
+        },
+        {
+          "src": "/photos/sequoyah-national/02.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (02)"
+        },
+        {
+          "src": "/photos/sequoyah-national/03.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (03)"
+        },
+        {
+          "src": "/photos/sequoyah-national/04.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (04)"
+        },
+        {
+          "src": "/photos/sequoyah-national/06.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (06)"
+        },
+        {
+          "src": "/photos/sequoyah-national/07.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (07)"
+        },
+        {
+          "src": "/photos/sequoyah-national/08.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (08)"
+        },
+        {
+          "src": "/photos/sequoyah-national/09.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (09)"
+        },
+        {
+          "src": "/photos/sequoyah-national/10.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (10)"
+        },
+        {
+          "src": "/photos/sequoyah-national/11.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (11)"
+        },
+        {
+          "src": "/photos/sequoyah-national/12.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (12)"
+        },
+        {
+          "src": "/photos/sequoyah-national/13.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (13)"
+        },
+        {
+          "src": "/photos/sequoyah-national/14.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (14)"
+        },
+        {
+          "src": "/photos/sequoyah-national/15.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (15)"
+        },
+        {
+          "src": "/photos/sequoyah-national/16.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (16)"
+        },
+        {
+          "src": "/photos/sequoyah-national/17.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (17)"
+        },
+        {
+          "src": "/photos/sequoyah-national/18.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (18)"
+        },
+        {
+          "src": "/photos/sequoyah-national/19.jpg",
+          "alt": "Sequoyah National Golf Club, Cherokee, North Carolina \u2014 photograph by Austin Pedersen (19)"
+        }
+      ]
+    }
+  ]
+}

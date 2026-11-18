@@ -1,0 +1,71 @@
+{
+  "placeholder": true,
+  "slug": "series-03",
+  "title": "Series Title 03",
+  "location": "Location",
+  "date": "2025-03",
+  "featured": true,
+  "description": "PLACEHOLDER — A short statement on the series: where, when, and what ties these images together.",
+  "cover": {
+    "src": "/photos/series-03/01.jpg",
+    "alt": "Placeholder — Landscape image 01",
+    "time": "6:12 AM",
+    "light": "Golden hour · raking light"
+  },
+  "photos": [
+    {
+      "src": "/photos/series-03/01.jpg",
+      "alt": "Placeholder — Landscape image 01",
+      "time": "6:12 AM",
+      "light": "Golden hour · raking light"
+    },
+    {
+      "src": "/photos/series-03/02.jpg",
+      "alt": "Placeholder — Landscape image 02",
+      "time": "7:40 AM",
+      "light": "Dusk · afterglow"
+    },
+    {
+      "src": "/photos/series-03/03.jpg",
+      "alt": "Placeholder — Landscape image 03",
+      "time": "12:05 PM",
+      "light": "Afternoon · coastal wind"
+    },
+    {
+      "src": "/photos/series-03/04.jpg",
+      "alt": "Placeholder — Landscape image 04",
+      "time": "6:48 PM",
+      "light": "Dawn · soft side light"
+    },
+    {
+      "src": "/photos/series-03/05.jpg",
+      "alt": "Placeholder — Landscape image 05",
+      "time": "7:31 PM",
+      "light": "Morning · low fog"
+    },
+    {
+      "src": "/photos/series-03/06.jpg",
+      "alt": "Placeholder — Landscape image 06",
+      "time": "6:12 AM",
+      "light": "Midday · high sun"
+    },
+    {
+      "src": "/photos/series-03/07.jpg",
+      "alt": "Placeholder — Landscape image 07",
+      "time": "7:40 AM",
+      "light": "Golden hour · raking light"
+    },
+    {
+      "src": "/photos/series-03/08.jpg",
+      "alt": "Placeholder — Landscape image 08",
+      "time": "12:05 PM",
+      "light": "Dusk · afterglow"
+    },
+    {
+      "src": "/photos/series-03/09.jpg",
+      "alt": "Placeholder — Landscape image 09",
+      "time": "6:48 PM",
+      "light": "Afternoon · coastal wind"
+    }
+  ]
+}

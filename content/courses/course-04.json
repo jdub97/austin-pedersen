@@ -1,0 +1,138 @@
+{
+  "placeholder": true,
+  "slug": "course-04",
+  "title": "Course Name 04",
+  "location": "City, State",
+  "region": "Region / Country",
+  "date": "2025-06",
+  "architect": "Architect name",
+  "client": "Club / commissioning client",
+  "coordinates": [
+    35.22,
+    -79.43
+  ],
+  "featured": false,
+  "description": "PLACEHOLDER \u2014 One or two sentences on the course: the landscape it sits in, what made it worth photographing, and the light Austin waited for.",
+  "cover": {
+    "src": "/photos/course-04/04.jpg",
+    "alt": "Placeholder cover \u2014 Course Name 4",
+    "time": "6:48 PM",
+    "light": "Dawn \u00b7 soft side light",
+    "hole": "No. 1 \u2014 Par 4"
+  },
+  "chapters": [
+    {
+      "title": "Morning",
+      "text": "PLACEHOLDER \u2014 First light and fog over the property.",
+      "photos": [
+        {
+          "src": "/photos/course-04/01.jpg",
+          "alt": "Placeholder \u2014 Morning image 01",
+          "time": "6:12 AM",
+          "light": "Golden hour \u00b7 raking light"
+        },
+        {
+          "src": "/photos/course-04/02.jpg",
+          "alt": "Placeholder \u2014 Morning image 02",
+          "time": "7:40 AM",
+          "light": "Dusk \u00b7 afterglow"
+        },
+        {
+          "src": "/photos/course-04/03.jpg",
+          "alt": "Placeholder \u2014 Morning image 03",
+          "time": "12:05 PM",
+          "light": "Afternoon \u00b7 coastal wind"
+        }
+      ]
+    },
+    {
+      "title": "The Holes",
+      "text": "PLACEHOLDER \u2014 A hole-by-hole walk through the signature stretch.",
+      "photos": [
+        {
+          "src": "/photos/course-04/04.jpg",
+          "alt": "Placeholder \u2014 Hole image 04",
+          "time": "6:48 PM",
+          "light": "Dawn \u00b7 soft side light",
+          "hole": "No. 1 \u2014 Par 4"
+        },
+        {
+          "src": "/photos/course-04/05.jpg",
+          "alt": "Placeholder \u2014 Hole image 05",
+          "time": "7:31 PM",
+          "light": "Morning \u00b7 low fog",
+          "hole": "No. 4 \u2014 Par 3"
+        },
+        {
+          "src": "/photos/course-04/06.jpg",
+          "alt": "Placeholder \u2014 Hole image 06",
+          "time": "6:12 AM",
+          "light": "Midday \u00b7 high sun",
+          "hole": "No. 7 \u2014 Par 5"
+        },
+        {
+          "src": "/photos/course-04/07.jpg",
+          "alt": "Placeholder \u2014 Hole image 07",
+          "time": "7:40 AM",
+          "light": "Golden hour \u00b7 raking light",
+          "hole": "No. 13 \u2014 Par 4"
+        },
+        {
+          "src": "/photos/course-04/08.jpg",
+          "alt": "Placeholder \u2014 Hole image 08",
+          "time": "12:05 PM",
+          "light": "Dusk \u00b7 afterglow",
+          "hole": "No. 16 \u2014 Par 3"
+        }
+      ]
+    },
+    {
+      "title": "Golden Hour",
+      "text": "PLACEHOLDER \u2014 Long shadows reveal the contour of the ground.",
+      "photos": [
+        {
+          "src": "/photos/course-04/09.jpg",
+          "alt": "Placeholder \u2014 Golden hour image 09",
+          "time": "6:48 PM",
+          "light": "Afternoon \u00b7 coastal wind"
+        },
+        {
+          "src": "/photos/course-04/10.jpg",
+          "alt": "Placeholder \u2014 Golden hour image 10",
+          "time": "7:31 PM",
+          "light": "Dawn \u00b7 soft side light"
+        },
+        {
+          "src": "/photos/course-04/11.jpg",
+          "alt": "Placeholder \u2014 Golden hour image 11",
+          "time": "6:12 AM",
+          "light": "Morning \u00b7 low fog"
+        }
+      ]
+    },
+    {
+      "title": "Details",
+      "text": "PLACEHOLDER \u2014 Flags, bunker edges, textures, clubhouse.",
+      "photos": [
+        {
+          "src": "/photos/course-04/12.jpg",
+          "alt": "Placeholder \u2014 Detail image 12",
+          "time": "7:40 AM",
+          "light": "Midday \u00b7 high sun"
+        },
+        {
+          "src": "/photos/course-04/13.jpg",
+          "alt": "Placeholder \u2014 Detail image 13",
+          "time": "12:05 PM",
+          "light": "Golden hour \u00b7 raking light"
+        },
+        {
+          "src": "/photos/course-04/14.jpg",
+          "alt": "Placeholder \u2014 Detail image 14",
+          "time": "6:48 PM",
+          "light": "Dusk \u00b7 afterglow"
+        }
+      ]
+    }
+  ]
+}

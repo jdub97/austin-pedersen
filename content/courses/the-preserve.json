@@ -1,0 +1,202 @@
+{
+  "slug": "the-preserve",
+  "title": "The Preserve Golf Club",
+  "location": "Vancleave, Mississippi",
+  "region": "Mississippi Gulf Coast",
+  "architect": "Jerry Pate",
+  "date": "2026-09",
+  "coordinates": [
+    30.54,
+    -88.69
+  ],
+  "featured": true,
+  "description": "The Preserve Golf Club in Vancleave, Mississippi, photographed by Austin Pedersen.",
+  "cover": {
+    "src": "/photos/the-preserve/22.jpg",
+    "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (22)"
+  },
+  "hero": [
+    "/photos/the-preserve/22.jpg",
+    "/photos/the-preserve/06.jpg",
+    "/photos/the-preserve/34.jpg"
+  ],
+  "chapters": [
+    {
+      "title": "Course",
+      "photos": [
+        {
+          "src": "/photos/the-preserve/01.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (01)"
+        },
+        {
+          "src": "/photos/the-preserve/02.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (02)"
+        },
+        {
+          "src": "/photos/the-preserve/03.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (03)"
+        },
+        {
+          "src": "/photos/the-preserve/04.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (04)"
+        },
+        {
+          "src": "/photos/the-preserve/05.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (05)"
+        },
+        {
+          "src": "/photos/the-preserve/06.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (06)"
+        },
+        {
+          "src": "/photos/the-preserve/07.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (07)"
+        },
+        {
+          "src": "/photos/the-preserve/08.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (08)"
+        },
+        {
+          "src": "/photos/the-preserve/09.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (09)"
+        },
+        {
+          "src": "/photos/the-preserve/11.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (11)"
+        },
+        {
+          "src": "/photos/the-preserve/12.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (12)"
+        },
+        {
+          "src": "/photos/the-preserve/13.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (13)"
+        },
+        {
+          "src": "/photos/the-preserve/14.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (14)"
+        },
+        {
+          "src": "/photos/the-preserve/15.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (15)"
+        },
+        {
+          "src": "/photos/the-preserve/16.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (16)"
+        },
+        {
+          "src": "/photos/the-preserve/17.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (17)"
+        },
+        {
+          "src": "/photos/the-preserve/18.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (18)"
+        },
+        {
+          "src": "/photos/the-preserve/19.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (19)"
+        },
+        {
+          "src": "/photos/the-preserve/20.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (20)"
+        },
+        {
+          "src": "/photos/the-preserve/21.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (21)"
+        },
+        {
+          "src": "/photos/the-preserve/23.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (23)"
+        },
+        {
+          "src": "/photos/the-preserve/24.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (24)"
+        },
+        {
+          "src": "/photos/the-preserve/25.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (25)"
+        },
+        {
+          "src": "/photos/the-preserve/26.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (26)"
+        },
+        {
+          "src": "/photos/the-preserve/27.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (27)"
+        },
+        {
+          "src": "/photos/the-preserve/28.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (28)"
+        },
+        {
+          "src": "/photos/the-preserve/29.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (29)"
+        },
+        {
+          "src": "/photos/the-preserve/30.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (30)"
+        },
+        {
+          "src": "/photos/the-preserve/31.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (31)"
+        },
+        {
+          "src": "/photos/the-preserve/32.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (32)"
+        },
+        {
+          "src": "/photos/the-preserve/33.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (33)"
+        },
+        {
+          "src": "/photos/the-preserve/34.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (34)"
+        },
+        {
+          "src": "/photos/the-preserve/35.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (35)"
+        },
+        {
+          "src": "/photos/the-preserve/36.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (36)"
+        },
+        {
+          "src": "/photos/the-preserve/37.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (37)"
+        },
+        {
+          "src": "/photos/the-preserve/38.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (38)"
+        },
+        {
+          "src": "/photos/the-preserve/39.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (39)"
+        },
+        {
+          "src": "/photos/the-preserve/40.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (40)"
+        },
+        {
+          "src": "/photos/the-preserve/41.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (41)"
+        },
+        {
+          "src": "/photos/the-preserve/42.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (42)"
+        },
+        {
+          "src": "/photos/the-preserve/43.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (43)"
+        },
+        {
+          "src": "/photos/the-preserve/44.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (44)"
+        },
+        {
+          "src": "/photos/the-preserve/45.jpg",
+          "alt": "The Preserve Golf Club, Vancleave, Mississippi \u2014 photograph by Austin Pedersen (45)"
+        }
+      ]
+    }
+  ]
+}
